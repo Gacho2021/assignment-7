@@ -14,4 +14,3 @@ Gas = parseInt(Gas)
 let MPG = Miles / Gas
 document.getElementById("MPG").value = MPG
 }, false);
-
